@@ -1,7 +1,6 @@
 # CS208-starter-code
 
-- Click Use this template, then click Open in a codespace.
-- Open the terminal in your codespace.
+- This application is a task list that lets the user create and remove tasks. 
 - Run `npm install` to install the dependencies.
 - Run `npm start` to start the server.
 - When your application starts, the codespace recognizes the port the application is running on and displays a pop-up message to let you know that the port has been forwarded.
